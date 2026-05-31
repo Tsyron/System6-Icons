@@ -1,3 +1,4 @@
 # System6-Icons
 
-![](<Icon Frame-36.svg>) ![](<Icon Frame-234.svg>) ![](<Icon Frame-212.svg>) [](<Icon Frame-228.svg>)
+Examples:
+![alt text](<Icons/Icon Frame-36.svg>) ![alt text](<Icons/Icon Frame-234.svg>) ![alt text](<Icons/Icon Frame-212.svg>) ![alt text](<Icons/Icon Frame-228.svg>)
